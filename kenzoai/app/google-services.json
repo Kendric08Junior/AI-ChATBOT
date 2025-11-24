@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689260908305",
+    "project_id": "kenzoai-b9b49",
+    "storage_bucket": "kenzoai-b9b49.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689260908305:android:af481efd95e057eceb46b0",
+        "android_client_info": {
+          "package_name": "com.example.kenzoai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0CZvmtjy6JdKiIzOaGDOnp_l-OQE-KuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
